@@ -1,0 +1,17 @@
+{
+    "name": "chewy-googlefont",
+    "license": "APACHE2",
+    "authors": [
+        "Sideshow"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/chewy-bower.git"
+    },
+    "description": "Chewy font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
